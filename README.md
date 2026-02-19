@@ -145,15 +145,21 @@ Le projet valide l'approche de machine learning pour ce problème en :
 ## Points Clés d'Apprentissage
 
 **Méthodologie** : POC, EDA, train/test/validation
+
 **Algorithmes** : Compréhension comparative des différentes approches
+
 **Bonnes Pratiques** : Validation croisée, feature engineering, hypertuning
+
 **Interprétabilité** : Justification des choix techniques au-delà de la performance
 
 ## Format du Rendu
 
 Code Python en format **Jupyter Notebook**
+
 Contenu mixte : code + texte + graphiques
+
 Export **HTML** avec toutes les cellules exécutées
+
 Ensemble cohérent de justifications et d'explications
 
 ## Technologies Utilisées
@@ -178,4 +184,5 @@ Ce projet est réalisé à des fins éducatives pour l'UTT.
 ---
 
 **Dernière mise à jour :** Février 2026
+
 
